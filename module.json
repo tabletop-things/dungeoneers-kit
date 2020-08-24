@@ -13,5 +13,8 @@
 			"path": "packs/scenes.db",
 			"entity": "Scene"
 		}
-	]
+	],
+	"url": "derpyderp.com",
+	"manifest": "https://github.com/tabletop-things/tabletop-things-dungeoneers-kit/raw/master/module.json",
+	"download": "https://github.com/tabletop-things/tabletop-things-dungeoneers-kit/archive/0.1.zip"
 }
