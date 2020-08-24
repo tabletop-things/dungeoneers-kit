@@ -1,0 +1,17 @@
+{
+	"name": "tabletop-things-dungeoneers-kit",
+	"title": "Dungeoneer's Kit by Tabletop Things",
+	"description": "Here's the stuff I did",
+	"author": "Tom Swogger",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.6.2",
+	"compatibleCoreVersion": "0.6.2",
+	"packs": [
+		{
+			"name": "scenes",
+			"label": "Scenes",
+			"path": "packs/scenes.db",
+			"entity": "Scene"
+		}
+	]
+}
